@@ -9,7 +9,7 @@ import {
 } from "lucide-react";
 
 export const profile = {
-  name: "Jhalen Troy L. Jose",
+  name: "Jhalen Troy",
   shortName: "Troy",
   role: "BS Information Technology",
   school: "Mariano Marcos State University",
